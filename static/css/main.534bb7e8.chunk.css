@@ -1,3 +1,5 @@
+/* purgecss start ignore */
+
 .storybook-button {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
@@ -7,27 +9,38 @@
   display: inline-block;
   line-height: 1;
 }
+
 .storybook-button--primary {
   color: white;
-  background-color: #1ea7fd;
+  /* background-color: #1ea7fd; */
+  --tw-bg-opacity: 1;
+  background-color: rgba(239, 68, 68, var(--tw-bg-opacity));
 }
+
 .storybook-button--secondary {
   color: #333;
   background-color: transparent;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
 }
+
 .storybook-button--small {
   font-size: 12px;
   padding: 10px 16px;
 }
+
 .storybook-button--medium {
   font-size: 14px;
   padding: 11px 20px;
 }
+
 .storybook-button--large {
   font-size: 16px;
   padding: 12px 24px;
 }
+
+/* purgecss end ignore */
+
+/* purgecss start ignore */
 
 .wrapper {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -55,6 +68,10 @@ h1 {
 button + button {
   margin-left: 10px;
 }
+
+/* purgecss end ignore */
+
+/* purgecss start ignore */
 
 section {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -126,5 +143,7 @@ li {
   fill: #1ea7fd;
 }
 
+/* purgecss end ignore */
 
-/*# sourceMappingURL=main.0b660ce0.chunk.css.map*/
+
+/*# sourceMappingURL=main.534bb7e8.chunk.css.map*/
