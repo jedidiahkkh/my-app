@@ -2,7 +2,7 @@
   "files": {
     "0.ac633c0a.iframe.bundle.js": "my-app/test/0.ac633c0a.iframe.bundle.js",
     "main.css": "my-app/test/static/css/main.e617af46.chunk.css",
-    "main.js": "my-app/test/main.56854607.iframe.bundle.js",
+    "main.js": "my-app/test/main.ea64e6c6.iframe.bundle.js",
     "main.css.map": "my-app/test/static/css/main.e617af46.chunk.css.map",
     "runtime~main.js": "my-app/test/runtime~main.e935c89d.iframe.bundle.js",
     "vendors~main.js": "my-app/test/vendors~main.81537195.iframe.bundle.js",
@@ -30,6 +30,6 @@
     "runtime~main.e935c89d.iframe.bundle.js",
     "vendors~main.81537195.iframe.bundle.js",
     "static/css/main.e617af46.chunk.css",
-    "main.56854607.iframe.bundle.js"
+    "main.ea64e6c6.iframe.bundle.js"
   ]
 }
